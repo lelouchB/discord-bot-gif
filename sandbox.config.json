@@ -1,9 +1,9 @@
 {
-  "infiniteLoopProtection": true,
-  "hardReloadOnChange": false,
-  "view": "browser",
-  "container": {
-    "port": 1234,
-    "startScript": "start"
-  }
+    "template": "static",
+    "infiniteLoopProtection": true,
+    "hardReloadOnChange": false,
+    "view": "browser",
+    "container": {
+        "startScript": "serve"
+    }
 }
